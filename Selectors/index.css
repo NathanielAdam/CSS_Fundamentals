@@ -1,0 +1,39 @@
+/*  */
+
+body {
+    background: brown image(./img/burger.jpg) no-repeat;
+    ;
+}
+
+p {
+    font-family: sans-serif;
+}
+
+#one {
+    background-color: white;
+    text-align: left;
+}
+
+#two {
+    color: lightblue;
+    text-align: center;
+}
+
+#three {
+    color: beige;
+    /* background-color: palevioletred; */
+    text-align: right;
+}
+
+#four {
+    color: red;
+    text-align: center;
+}
+
+.bordered {
+    border: 2px solid fuchsia;
+}
+
+.background-black {
+    background-color: black;
+}
