@@ -1,0 +1,23 @@
+body {
+    background-color: gray;
+}
+
+h1 {
+    color: red;
+}
+
+p {
+    font-style: italic
+}
+
+ul {
+    border: 1px solid black;
+}
+
+li {
+    background-color: lightblue;
+}
+
+ul>li:nth-child(odd) {
+    margin-bottom: 10px;
+}
