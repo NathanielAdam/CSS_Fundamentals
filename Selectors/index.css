@@ -1,15 +1,21 @@
 /*  */
 
 body {
-    background: brown image(./img/burger.jpg) no-repeat;
-    ;
+    background-color: goldenrod;
 }
 
 p {
     font-family: sans-serif;
+    color: red;
 }
 
-#one {
+p:hover {
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+
+/* #one {
     background-color: white;
     text-align: left;
 }
@@ -22,18 +28,20 @@ p {
 #three {
     color: beige;
     /* background-color: palevioletred; */
-    text-align: right;
+
+
+/*    text-align: right;
 }
 
 #four {
     color: red;
     text-align: center;
 }
-
+/*
 .bordered {
     border: 2px solid fuchsia;
 }
 
 .background-black {
     background-color: black;
-}
+} */
